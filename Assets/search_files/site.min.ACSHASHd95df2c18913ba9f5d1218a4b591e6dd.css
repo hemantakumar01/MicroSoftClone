@@ -1,0 +1,3 @@
+.slideshowOverflow{overflow-x:hidden}
+@media(max-width:767px){.carousel .sr-only-focusable{position:relative !important}
+}
